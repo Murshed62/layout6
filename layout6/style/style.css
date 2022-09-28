@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 80px;
+}
+.left_content{
+height: 550px;
+background-color: aqua;
+width: 20%;
+float: left;
+text-align: center;
+color: white;
+}
+.middle_content{
+    height: 550px;
+    background-color: purple;
+    width: 60%;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.right_content{
+    height: 550px;
+    background-color: orange;
+    width: 20%;
+    float: left;
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
